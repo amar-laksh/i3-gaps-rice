@@ -13,5 +13,5 @@ chmod +x install.sh
 i3-gaps, polybar, ranger
 ```
 
-## Forked From
-
+## Originated From
+Luke Smith's Voidrice @ https://github.com/LukeSmithxyz/voidrice
