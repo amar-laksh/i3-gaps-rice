@@ -1,2 +1,9 @@
 # Arch-i3-gaps-rice
-My Rice which is based off of Luke Smith's rice with a bit of modifications for my hardware and personal tastes
+This Is My Arch Linux i3-gaps rice, It can be used for any other distrobutions with i3-gaps
+
+##Getting stared
+
+###Prerequisites
+```
+i3-gaps, polybar, ranger
+```
