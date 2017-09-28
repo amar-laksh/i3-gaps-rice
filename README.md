@@ -12,3 +12,6 @@ chmod +x install.sh
 ```
 i3-gaps, polybar, ranger
 ```
+
+## Forked From
+
