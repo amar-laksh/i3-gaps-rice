@@ -1,0 +1,588 @@
+Delivered-To: techrunner2.0@gmail.com
+Received: by 10.55.23.100 with SMTP id i97csp280310qkh;
+        Wed, 19 Apr 2017 12:28:47 -0700 (PDT)
+X-Received: by 10.37.66.211 with SMTP id p202mr3729496yba.132.1492630127612;
+        Wed, 19 Apr 2017 12:28:47 -0700 (PDT)
+Return-Path: <bounce-mc.us3_23131783.230038-techrunner2.0=gmail.com@mail222.atl61.mcsv.net>
+Received: from mail222.atl61.mcsv.net (mail222.atl61.mcsv.net. [205.201.135.222])
+        by mx.google.com with ESMTPS id v184si1477117yba.196.2017.04.19.12.28.47
+        for <techrunner2.0@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Wed, 19 Apr 2017 12:28:47 -0700 (PDT)
+Received-SPF: pass (google.com: domain of bounce-mc.us3_23131783.230038-techrunner2.0=gmail.com@mail222.atl61.mcsv.net designates 205.201.135.222 as permitted sender) client-ip=205.201.135.222;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@mail222.atl61.mcsv.net;
+       dkim=pass header.i=@gmail.mcsv.net;
+       spf=pass (google.com: domain of bounce-mc.us3_23131783.230038-techrunner2.0=gmail.com@mail222.atl61.mcsv.net designates 205.201.135.222 as permitted sender) smtp.mailfrom=bounce-mc.us3_23131783.230038-techrunner2.0=gmail.com@mail222.atl61.mcsv.net
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=mail222.atl61.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version; i=help=3Dting.com@mail222.atl61.mcsv.net;
+ bh=Qgd4t+bRp3NuPPuD96WVtV5PEk0=;
+ b=rbFlXraTwz7fb0BVkFvZd8aBMHfeHbqTJ77+pJEC0H2cN3eduBIKUrV/slYVm/4pFqiP0MwVPBtF
+   vO3oSI+5n/HJkAcZx0kGGCKZXshWVZiAjRXVVfxf56wrRakzntcZ2JGPG9GvX73Rx/uhmjbcVuKp
+   Pr6xyyC2b4diA771OWo=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=k1; d=gmail.mcsv.net;
+ h=Subject:From:Reply-To:To:Date:Message-ID:Feedback-ID:List-ID:List-Unsubscribe:Sender:Content-Type:MIME-Version;
+ bh=Qgd4t+bRp3NuPPuD96WVtV5PEk0=;
+ b=d9vrG8p3H886reqfS9d6qAfcZilAd7dZwoAF8Ax4qRGrvoHEnlcP09/8eSqHl9NHQfOReWJXY6jj
+   b3EPuzXW8Ka0DFoBLOC2fJQdVvonL1ynLcMDZNUicEWvGK+broAjL7yc4mqzBFpBXVxZ9fZEr21e
+   gIkv8gmiI3jkhWJtwxc=
+Received: from (127.0.0.1) by mail222.atl61.mcsv.net id huut6u174acg for <techrunner2.0@gmail.com>; Wed, 19 Apr 2017 19:28:10 +0000 (envelope-from <bounce-mc.us3_23131783.230038-techrunner2.0=gmail.com@mail222.atl61.mcsv.net>)
+Subject: =?utf-8?Q?Reset=20your=20Ting=20account=20password?=
+From: =?utf-8?Q?Ting=20Mobile?= <help@ting.com>
+Reply-To: =?utf-8?Q?Ting=20Mobile?= <help@ting.com>
+To: =?utf-8?Q?Brandon?= <techrunner2.0@gmail.com>
+Date: Wed, 19 Apr 2017 19:28:10 +0000
+Message-ID: <84134bee367b9fa119ccfec94.45a8afc96e.20170419192732.e6e3690991.99e309ff@mail222.atl61.mcsv.net>
+X-Mailer: MailChimp Mailer - **CIDe6e369099145a8afc96e**
+X-Campaign: mailchimp84134bee367b9fa119ccfec94.e6e3690991
+X-campaignid: mailchimp84134bee367b9fa119ccfec94.e6e3690991
+X-Report-Abuse: Please report abuse for this campaign here: http://www.mailchimp.com/abuse/abuse.phtml?u=84134bee367b9fa119ccfec94&id=e6e3690991&e=45a8afc96e
+X-MC-User: 84134bee367b9fa119ccfec94
+Feedback-ID: 23131783:23131783.230038:us3:mc
+List-ID: 84134bee367b9fa119ccfec94mc list <84134bee367b9fa119ccfec94.228270.list-id.mcsv.net>
+X-Accounttype: pd
+List-Unsubscribe: <http://ting.us3.list-manage2.com/unsubscribe?u=84134bee367b9fa119ccfec94&id=a2d6208d77&e=45a8afc96e&c=e6e3690991>, <mailto:unsubscribe-mc.us3_84134bee367b9fa119ccfec94.e6e3690991-45a8afc96e@mailin1.us2.mcsv.net?subject=unsubscribe>
+List-Unsubscribe-Post: List-Unsubscribe=One-Click
+Sender: "Ting Mobile" <help=ting.com@mail222.atl61.mcsv.net>
+x-mcda: FALSE
+Content-Type: multipart/alternative; boundary="_----------=_MCPart_1515903642"
+MIME-Version: 1.0
+
+This is a multi-part message in MIME format
+
+--_----------=_MCPart_1515903642
+Content-Type: text/plain; charset="utf-8"; format="fixed"
+Content-Transfer-Encoding: quoted-printable
+
+The Latest from Ting
+
+Brandon=2C if you=E2=80=99re having trouble viewing this email th=
+en click here (http://mailchi.mp/218744478b01/reset-your-ting-account-pass=
+word-230038?e=3D45a8afc96e) to view it in your web browser
+
+https://ting.com/
+
+We have reset your account password.
+
+Dear Brandon=2C
+
+It's time to reset your Ting account password. Please log out of your Ting=
+ account. When you attempt to log back in=2C click "forgot password" then=
+ choose a new password that's unique to Ting and at least 10 characters lo=
+ng. While we recognize that links in emails can be suspect=2C we're includ=
+ing one here anyway=2C in plain text=2C for simplicity's sake.
+
+https://ting.com/account/forgot_password/
+Why do I need to reset my password?
+We're asking Ting customers to reset their passwords as a precautionary me=
+asure. There was a brief period of time when unauthorized access to one of=
+ our systems could have occurred. Erring on the side of caution=2C we've d=
+ecided to expire existing passwords. For a little more on the importance o=
+f strong=2C unique passwords for all the online services you access=2C ple=
+ase read Practicing good password hygiene and why it=E2=80=99s important (=
+https://ting.com/blog/practicing-good-password-hygiene-important/) on the=
+ Ting blog.
+
+Sincerely=2C
+The Ting Team
+help@ting.com (mailto:help@ting.com?subject=3DPassword%20Reset%20Help)
+=C2=A9 Ting 2017 (http://www.ting.com)      Privacy Policy (https://ting.c=
+om/privacy_policy)      Terms of Service (https://ting.com/terms)      Hel=
+p (https://help.ting.com)
+
+421 Dr Martin Luther King Jr Dr.E=2C Starkville=2C MS=2C 39759
+unsubscribe (http://ting.us3.list-manage2.com/unsubscribe?u=3D84134bee367b=
+9fa119ccfec94&id=3Da2d6208d77&e=3D45a8afc96e&c=3De6e3690991) | update your p=
+references (http://ting.us3.list-manage.com/profile?u=3D84134bee367b9fa119=
+ccfec94&id=3Da2d6208d77&e=3D45a8afc96e)
+
+https://www.facebook.com/Ting https://twitter.com/tingftw https://www.yout=
+ube.com/user/ting https://instagram.com/ting
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+--_----------=_MCPart_1515903642
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www=
+=2Ew3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+=09=09<!doctype html>
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html;" charset=3D"utf-8"=
+>
+<meta name=3D"viewport" content=3D"width=3Ddevice-width=2C initial-scale=
+=3D1">
+<meta http-equiv=3D"X-UA-Compatible" content=3D"IE=3Dedge">
+<title>Fluid Responsive</title>
+
+
+<!--[if gte mso 9]><xml> <o:OfficeDocumentSettings> <o:AllowPNG/> <o:Pixe=
+lsPerInch>96</o:PixelsPerInch> </o:OfficeDocumentSettings> </xml><![endif=
+]-->
+
+
+
+
+
+<style type=3D"text/css">
+=09@font-face {font-family: 'ProximaNova-Semibold';  src: url('http://ade-=
+lee.com/Fonts/proximaNova/ProximaNova-Semibold.eot?#iefix') format('embedd=
+ed-opentype')=2C  url('http://ade-lee.com/Fonts/proximaNova/ProximaNova-Se=
+mibold.otf')  format('opentype')=2C     url('http://ade-lee.com/Fonts/prox=
+imaNova/ProximaNova-Semibold.woff') format('woff')=2C url('http://ade-lee.=
+com/Fonts/proximaNova/ProximaNova-Semibold.ttf')  format('truetype')=2C ur=
+l('http://ade-lee.com/Fonts/proximaNova/ProximaNova-Semibold.svg#ProximaNo=
+va-Semibold') format('svg');  font-weight: normal;  font-style: normal; ms=
+o-font-alt: 'Arial';}
+=09@font-face {font-family: 'ProximaNova-Regular';  src: url('http://ade-l=
+ee.com/Fonts/proximaNova/ProximaNova-Regular.eot?#iefix') format('embedded=
+-opentype')=2C  url('http://ade-lee.com/Fonts/proximaNova/ProximaNova-Regu=
+lar.otf')  format('opentype')=2C     url('http://ade-lee.com/Fonts/proxima=
+Nova/ProximaNova-Regular.woff') format('woff')=2C url('http://ade-lee.com/=
+Fonts/proximaNova/ProximaNova-Regular.ttf')  format('truetype')=2C url('ht=
+tp://ade-lee.com/Fonts/proximaNova/ProximaNova-Regular.svg#ProximaNova-Reg=
+ular') format('svg');  font-weight: normal;  font-style: normal; mso-font-=
+alt: 'Arial';}
+=09@font-face {font-family: 'Montserrat';  font-style: normal;  font-weigh=
+t: 400; mso-font-alt: 'Arial';  src: local('Montserrat-Regular')=2C url(ht=
+tps://fonts.gstatic.com/s/montserrat/v6/zhcz-_WihjSQC0oHJ9TCYAzyDMXhdD8sAj=
+6OAJTFsBI.woff2) format('woff2');  unicode-range: U+0000-00FF=2C U+0131=2C=
+ U+0152-0153=2C U+02C6=2C U+02DA=2C U+02DC=2C U+2000-206F=2C U+2074=2C U+2=
+0AC=2C U+2212=2C U+2215=2C U+E0FF=2C U+EFFD=2C U+F000;}
+=09@font-face {font-family: 'Montserrat';  font-style: normal;  font-weigh=
+t: 700; mso-font-alt: 'Arial';  src: local('Montserrat-Bold')=2C url(https=
+://fonts.gstatic.com/s/montserrat/v6/IQHow_FEYlDC4Gzy_m8fcmaVI6zN22yiurzcB=
+KxPjFE.woff2) format('woff2');  unicode-range: U+0000-00FF=2C U+0131=2C U+=
+0152-0153=2C U+02C6=2C U+02DA=2C U+02DC=2C U+2000-206F=2C U+2074=2C U+20AC=
+=2C U+2212=2C U+2215=2C U+E0FF=2C U+EFFD=2C U+F000;}
+=09=09body{
+=09=09=09font-family:Lato=2C Helvetica=2C Arial=2C sans-serif;
+=09=09=09font-size:12px;
+=09=09=09color:#000001;
+=09=09=09-webkit-font-smoothing:antialiased;
+=09=09=09-webkit-text-size-adjust:none;
+=09=09}
+=09=09div[style*=3Dmargin: 16px 0]{
+=09=09=09margin:0 !important;
+=09=09}
+=09=09a[x-apple-data-detectors]{
+=09=09=09color:inherit !important;
+=09=09=09text-decoration:none !important;
+=09=09=09font-size:inherit !important;
+=09=09=09font-family:inherit !important;
+=09=09=09font-weight:inherit !important;
+=09=09=09line-height:inherit !important;
+=09=09}
+=09=09span.pre-header{
+=09=09=09display:none !important;
+=09=09=09visibility:hidden;
+=09=09=09opacity:0;
+=09=09=09color:transparent;
+=09=09=09height:0;
+=09=09=09width:0;
+=09=09}
+=09=09.ReadMsgBody{
+=09=09=09width:100%;
+=09=09=09background-color:#eeeeee;
+=09=09}
+=09=09.ExternalClass{
+=09=09=09width:100%;
+=09=09=09background-color:#eeeeee;
+=09=09}
+=09=09.ExternalClass=2C.ExternalClass p=2C.ExternalClass br=2C.ExternalCla=
+ss span=2C.ExternalClass font=2C.ExternalClass td=2C.ExternalClass div{
+=09=09=09line-height:100%;
+=09=09}
+=09=09table{
+=09=09=09border-spacing:0;
+=09=09}
+=09=09table td{
+=09=09=09border-collapse:collapse;
+=09=09=09box-sizing:border-box;
+=09=09}
+=09=09.yshortcuts a{
+=09=09=09border-bottom:none !important;
+=09=09}
+=09=09#backgroundTable{
+=09=09=09margin:0;
+=09=09=09padding:0;
+=09=09=09width:100% !important;
+=09=09=09line-height:100% !important;
+=09=09}
+=09=09.preHeader{
+=09=09=09display:none !important;
+=09=09=09visibility:hidden;
+=09=09=09opacity:0;
+=09=09=09color:transparent;
+=09=09=09height:0;
+=09=09=09width:0;
+=09=09}
+=09@media screen and (max-device-width: 650px)=2C screen and (max-width: 6=
+50px){
+=09=09.emailContainer{
+=09=09=09width:100% !important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.fluid=2C.forceColCenter{
+=09=09=09width:100% !important;
+=09=09=09max-width:100% !important;
+=09=09=09height:auto !important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.dividerFluid{
+=09=09=09width:90% !important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.vanish{
+=09=09=09display:none!important;
+=09=09=09visibility:hidden!important;
+=09=09=09max-height:0px!important;
+=09=09=09max-width:0px!important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.blankGmail{
+=09=09=09width:100% !important;
+=09=09=09min-width:100% !important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.clearPad{
+=09=09=09padding:0px!important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.shrink{
+=09=09=09padding:0px!important;
+=09=09=09margin:0px!important;
+=09=09=09width:1px!important;
+=09=09=09line-height:0px!important;
+=09=09=09font-size:1px!important;
+=09=09=09color:#FFFFFF!important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.paddingTwenty{
+=09=09=09padding:20px !important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.paddingTwentyLR{
+=09=09=09padding:0px 20px !important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.textCenter{
+=09=09=09text-align:center !important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.paddingLeft{
+=09=09=09padding-left:20px !important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.block{
+=09=09=09display:block !important;
+=09=09=09width:100% !important;
+=09=09=09box-sizing:border-box !important;
+=09=09=09padding:0px 20px 5px !important;
+=09=09}
+
+}=09@media screen and (max-device-width: 650px)=2C screen and (max-width:=
+ 650px){
+=09=09.blockALT{
+=09=09=09display:block !important;
+=09=09=09width:100% !important;
+=09=09=09box-sizing:border-box !important;
+=09=09=09padding:0px 20px 0px !important;
+=09=09}
+
+}=09@media screen and (max-device-width: 320px)=2C screen and (max-width:=
+ 320px){
+=09=09#android{
+=09=09=09width:320px !important;
+=09=09}
+
+}</style><!--[if !mso]><!--><link href=3D"https://fonts.googleapis.com/cs=
+s?family=3DLato:400=2C400i=2C700=2C700i" rel=3D"stylesheet"><!--<![endif]=
+--></head>
+
+<body bgcolor=3D"#f2f2f2" leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"=
+0" marginheight=3D"0" style=3D"margin: 0;padding: 0;-webkit-text-size-adju=
+st: none;-ms-text-size-adjust: none;font-family: Lato=2C Helvetica=2C Aria=
+l=2C sans-serif;font-size: 12px;color: #000001;-webkit-font-smoothing: ant=
+ialiased;">
+
+<!-- START PRE HEADER -->
+<span class=3D"preHeader" style=3D"width: 0;max-height: 1px;font-size: 1px=
+;line-height: 0;mso-margin-top-alt: 1px;color: transparent;display: none !=
+important;mso-hide: all;height: 0;opacity: 0;visibility: hidden;">The Late=
+st from Ting </span>
+<!-- END PRE HEADER -->
+
+<table width=3D"100%" height=3D"100%" border=3D"0" cellspacing=3D"0" cellp=
+adding=3D"0" id=3D"backgroundTable" style=3D"border-spacing: 0;margin: 0;p=
+adding: 0;width: 100% !important;line-height: 100% !important;">
+  <tr>
+    <td bgcolor=3D"#f2f2f2" align=3D"center" valign=3D"top" style=3D"borde=
+r-collapse: collapse;box-sizing: border-box;">
+
+    =09<table id=3D"android" width=3D"100%" class=3D"emailContainer" borde=
+r=3D"0" cellspacing=3D"0" cellpadding=3D"0" style=3D"border-spacing: 0;">
+
+
+        <tr>
+    <td bgcolor=3D"#333333" align=3D"left" style=3D"padding: 20px;border-c=
+ollapse: collapse;box-sizing: border-box;"><table style=3D"border-collapse=
+: collapse;mso-table-lspace: 0pt;mso-table-rspace: 0pt;font-size: 1px;mso-=
+margin-top-alt: 1px;border-spacing: 0;" width=3D"600" class=3D"fluid" bord=
+er=3D"0" align=3D"center" cellpadding=3D"0" cellspacing=3D"0">
+  <tr>
+    <td align=3D"center" mc:label=3D"body3" style=3D"font-family: 'Proxima=
+Nova-Regular'=2C helvetica=2C arial=2C sans serif;line-height: 1.5;font-we=
+ight: 400;font-size: 12px;color: #FFFFFF;border-collapse: collapse;box-siz=
+ing: border-box;"><strong>Brandon</strong>=2C if you&rsquo;re hav=
+ing trouble viewing this email then <a href=3D"http://mailchi.mp/218744478=
+b01/reset-your-ting-account-password-230038?e=3D45a8afc96e" style=3D"color:#=
+ffffff; text-decoration:underline">click here</a> to view it in your web b=
+rowser</td>
+  </tr>
+</table>
+</td>
+  </tr>
+
+  <tr>
+    <td align=3D"center" valign=3D"top" style=3D"border-collapse: collapse=
+;box-sizing: border-box;">
+
+    =09<table width=3D"600" class=3D"emailContainer" border=3D"0" cellspac=
+ing=3D"0" cellpadding=3D"0" style=3D"border-spacing: 0;">
+     <tr>
+    <td style=3D"font-size: 1px;line-height: 0;mso-margin-top-alt: 1px;bor=
+der-collapse: collapse;box-sizing: border-box;"><img class=3D"blankGmail"=
+ style=3D"width:600px; height:2px; border: 0; padding: 0; display: block;=
+ min-width:600px" src=3D"http://ade-lee.com/mail/spacer.png" height=3D"2"=
+ alt=3D""></td>
+    </tr>
+    <tr>
+  =09<td align=3D"center" style=3D"color: #FFFFFF;padding: 10px;border-col=
+lapse: collapse;box-sizing: border-box;">&nbsp;</td>
+  </tr>
+
+
+  <!--/// Start Logo ///-->
+   <tr>
+    <td align=3D"left" bgcolor=3D"#ffffff" style=3D"padding: 10px 45px;fon=
+t-family: Montserrat=2C 'Proxima Nova'=2C helvetica=2C arial=2C sans serif=
+;line-height: 1.2;color: #333333;border-top: 5px solid #02AAED;border-bott=
+om: 1px solid #e1e1e1;border-collapse: collapse;box-sizing: border-box;">
+
+    <table class=3D"fluid" align=3D"left" style=3D"border-collapse: collap=
+se;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-spacing: 0;" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td align=3D"left" bgcolor=3D"#ffffff" style=3D"border-collapse: colla=
+pse;box-sizing: border-box;"><a href=3D"http://ting.us3.list-manage.com/tr=
+ack/click?u=3D84134bee367b9fa119ccfec94&id=3D048c668608&e=3D45a8afc96e"><=
+img src=3D"https://gallery.mailchimp.com/84134bee367b9fa119ccfec94/images/=
+95fab275-7318-4d35-b6a7-3bee21abca7f.png" width=3D"130" height=3D"45" styl=
+e=3D"outline:none; text-decoration:none; -ms-interpolation-mode: bicubic;=
+ border:none; display:block;"></a>
+    </td>
+  </tr>
+</table>
+
+
+
+<table class=3D"vanish" style=3D"border-collapse: collapse;mso-table-lspac=
+e: 0pt;mso-table-rspace: 0pt;font-size: 1px;mso-margin-top-alt: 1px;border=
+-spacing: 0;" border=3D"0" align=3D"right" cellpadding=3D"0" cellspacing=
+=3D"0">
+          <tr>
+
+          </tr>
+        </table>
+
+    </td>
+  </tr>
+  <!--/// End Logo ///-->
+
+
+
+   <!--/// Start Email Body ///-->
+   <tr>
+    <td mc:label=3D"header" align=3D"left" bgcolor=3D"#ffffff" style=3D"pa=
+dding: 54px 45px 0px;font-size: 27px;font-family: 'ProximaNova-Semibold'=
+=2C helvetica=2C arial=2C sans serif;line-height: 1.4;color: #282828;borde=
+r-collapse: collapse;box-sizing: border-box;"><font color=3D"00aaee">We ha=
+ve reset your account password.&nbsp;</font></td>
+  </tr>
+  <!--/// End Email Body ///-->
+
+
+     <!--/// Start Email Body Header ///-->
+   <tr>
+    <td mc:label=3D"body" align=3D"left" bgcolor=3D"#ffffff" style=3D"padd=
+ing: 10px 45px 54px;font-size: 18px;font-family: 'ProximaNova-Regular'=2C=
+ helvetica=2C arial=2C sans serif;line-height: 1.4;color: #282828;border-r=
+adius: 0px 0px 20px 20px;border-collapse: collapse;box-sizing: border-box;=
+"><p dir=3D"ltr">Dear Brandon=2C<br>
+<br>
+It&#39;s time to reset your Ting account password. Please log out of your=
+ Ting account. When you attempt to log back in=2C click &quot;forgot passw=
+ord&quot; then choose a new password that&#39;s unique to Ting and at leas=
+t 10 characters long. While we recognize that links in emails can be suspe=
+ct=2C we&#39;re including one here anyway=2C in plain text=2C for simplici=
+ty&#39;s sake.<br>
+<br>
+https://ting.com/account/forgot_password/</p>
+<strong>Why do I need to reset my password?</strong><br>
+We&#39;re asking Ting customers to reset their passwords as a precautionar=
+y measure. There was a brief period of time when unauthorized access to on=
+e of our systems could have occurred. Erring on the side of caution=2C we&=
+#39;ve decided to expire existing passwords. For a little more on the impo=
+rtance of strong=2C unique passwords for all the online services you acces=
+s=2C please read&nbsp;<a href=3D"http://ting.us3.list-manage.com/track/cli=
+ck?u=3D84134bee367b9fa119ccfec94&id=3Dfa318af70b&e=3D45a8afc96e" style=3D=
+"color:#02AAED; text-decoration:none">Practicing good password hygiene and=
+ why it&rsquo;s important</a> on the Ting blog.<br>
+<br>
+Sincerely=2C&nbsp;<br>
+<font color=3D"00aaee"><strong>The Ting Team</strong></font><br>
+<a href=3D"mailto:help@ting.com?subject=3DPassword%20Reset%20Help" target=
+=3D"_blank">help@ting.com</a></td>
+  </tr>
+  <!--/// End Email Body Header ///-->
+
+
+
+   <!--/// Start Email Footer ///-->
+   <tr>
+    <td align=3D"left" style=3D"padding: 36px 0px;font-size: 14px;font-fam=
+ily: 'ProximaNova-Regular'=2C helvetica=2C arial=2C sans serif;line-height=
+: 1.4;color: #282828;border-collapse: collapse;box-sizing: border-box;">
+
+    <table class=3D"fluid" align=3D"left" style=3D"border-collapse: collap=
+se;mso-table-lspace: 0pt;mso-table-rspace: 0pt;border-spacing: 0;" border=
+=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+  <tr>
+    <td style=3D"font-size: 14px;font-family: 'ProximaNova-Regular'=2C hel=
+vetica=2C arial=2C sans serif;line-height: 1.4;color: #282828;border-colla=
+pse: collapse;box-sizing: border-box;">
+     <a class=3D"block" style=3D"color:#7b7b7b; text-decoration:none" href=
+=3D"http://ting.us3.list-manage1.com/track/click?u=3D84134bee367b9fa119ccf=
+ec94&id=3D6401d85da8&e=3D45a8afc96e">=C2=A9 Ting 2017</a>
+    &nbsp;&nbsp;&nbsp;<span class=3D"Vanish">&nbsp;</span>
+      <a class=3D"block" style=3D"color:#7b7b7b; text-decoration:none" hre=
+f=3D"http://ting.us3.list-manage.com/track/click?u=3D84134bee367b9fa119ccf=
+ec94&id=3D2a525fbc95&e=3D45a8afc96e">Privacy Policy</a>
+      &nbsp;&nbsp;&nbsp;<span class=3D"Vanish">&nbsp;</span>
+      <a class=3D"block" style=3D"color:#7b7b7b; text-decoration:none" hre=
+f=3D"http://ting.us3.list-manage.com/track/click?u=3D84134bee367b9fa119ccf=
+ec94&id=3D604b5457f0&e=3D45a8afc96e">Terms of Service</a>
+      &nbsp;&nbsp;&nbsp;<span class=3D"Vanish">&nbsp;</span>
+      <a class=3D"block" style=3D"color:#7b7b7b; text-decoration:none" hre=
+f=3D"http://ting.us3.list-manage1.com/track/click?u=3D84134bee367b9fa119cc=
+fec94&id=3D4de5df439b&e=3D45a8afc96e">Help</a>
+      <br>
+    <br>
+    <span class=3D"blockALT">421 Dr Martin Luther King Jr Dr.E=2C Starkvil=
+le=2C MS=2C 39759</span>
+    <span class=3D"vanish"><br></span>
+    <a class=3D"blockALT" style=3D"color:#333333; text-decoration:underlin=
+e" href=3D"http://ting.us3.list-manage2.com/unsubscribe?u=3D84134bee367b9f=
+a119ccfec94&id=3Da2d6208d77&e=3D45a8afc96e&c=3De6e3690991">unsubscribe</a> <=
+span class=3D"vanish"> |</span> <a class=3D"blockALT" style=3D"color:#3333=
+33; text-decoration:underline" href=3D"http://ting.us3.list-manage.com/pro=
+file?u=3D84134bee367b9fa119ccfec94&id=3Da2d6208d77&e=3D45a8afc96e"> update y=
+our preferences</a>
+    </td>
+  </tr>
+</table>
+
+
+<table class=3D"fluid" style=3D"border-collapse: collapse;mso-table-lspace=
+: 0pt;mso-table-rspace: 0pt;font-size: 1px;mso-margin-top-alt: 1px;border-=
+spacing: 0;" border=3D"0" align=3D"right" cellpadding=3D"0" cellspacing=3D=
+"0">
+      <tr>
+        <td class=3D"paddingTwenty" style=3D"border-collapse: collapse;box=
+-sizing: border-box;">
+
+        <table style=3D"border-collapse: collapse;mso-table-lspace: 0pt;ms=
+o-table-rspace: 0pt;font-size: 1px;mso-margin-top-alt: 1px;border-spacing:=
+ 0;" border=3D"0" align=3D"left" cellpadding=3D"0" cellspacing=3D"0">
+      <tr>
+        <td style=3D"font-size: 1px;line-height: 0;mso-margin-top-alt: 1px=
+;border-collapse: collapse;box-sizing: border-box;"><a href=3D"http://ting=
+=2Eus3.list-manage1.com/track/click?u=3D84134bee367b9fa119ccfec94&id=3Db52cd=
+49467&e=3D45a8afc96e"><img style=3D"outline:none; text-decoration:none; -=
+ms-interpolation-mode: bicubic; border:none; display:block;" src=3D"https:=
+//gallery.mailchimp.com/84134bee367b9fa119ccfec94/images/a59f5b49-8c4f-46d=
+9-9ecc-95f4ba36f0de.jpg" width=3D"22" height=3D"17"></a></td>
+        <td style=3D"font-size: 1px;line-height: 0;mso-margin-top-alt: 1px=
+;border-collapse: collapse;box-sizing: border-box;"><a href=3D"http://ting=
+=2Eus3.list-manage1.com/track/click?u=3D84134bee367b9fa119ccfec94&id=3D168ca=
+6f491&e=3D45a8afc96e"><img style=3D"outline:none; text-decoration:none; -=
+ms-interpolation-mode: bicubic; border:none; display:block;" src=3D"https:=
+//gallery.mailchimp.com/84134bee367b9fa119ccfec94/images/48c621eb-67e6-461=
+d-bebc-393bf27665fe.jpg" width=3D"28" height=3D"17"></a></td>
+        <td style=3D"font-size: 1px;line-height: 0;mso-margin-top-alt: 1px=
+;border-collapse: collapse;box-sizing: border-box;"><a href=3D"http://ting=
+=2Eus3.list-manage1.com/track/click?u=3D84134bee367b9fa119ccfec94&id=3Dc2644=
+83706&e=3D45a8afc96e"><img style=3D"outline:none; text-decoration:none; -=
+ms-interpolation-mode: bicubic; border:none; display:block;" src=3D"https:=
+//gallery.mailchimp.com/84134bee367b9fa119ccfec94/images/514d13de-ccfc-43b=
+6-8d0b-2406e6abd319.jpg" width=3D"31" height=3D"17"></a></td>
+        <td style=3D"font-size: 1px;line-height: 0;mso-margin-top-alt: 1px=
+;border-collapse: collapse;box-sizing: border-box;"><a href=3D"http://ting=
+=2Eus3.list-manage.com/track/click?u=3D84134bee367b9fa119ccfec94&id=3Dccfe95=
+4eac&e=3D45a8afc96e"><img style=3D"outline:none; text-decoration:none; -m=
+s-interpolation-mode: bicubic; border:none; display:block;" src=3D"https:/=
+/gallery.mailchimp.com/84134bee367b9fa119ccfec94/images/52b5797c-2011-4fd6=
+-8b8d-7b6e130ae9e9.jpg" width=3D"16" height=3D"17"></a></td>
+      </tr>
+    </table>
+
+</td>
+  </tr>
+  <!--/// End Email Footer ///-->
+
+</table>
+
+    </td>
+  </tr>
+</table>
+    </td>
+  </tr>
+
+<!--------------------- Gmail App Iphone Width Fix --------------------->
+<div style=3D"display:none; white-space:nowrap; font:15px courier; color:#=
+ffffff;">
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+</div>
+<!-------------------- End Of Gmail App Iphone Width Fix -----------------=
+-->
+
+</table>
+</td></tr></table><img src=3D"http://ting.us3.list-manage.com/track/open.p=
+hp?u=3D84134bee367b9fa119ccfec94&id=3De6e3690991&e=3D45a8afc96e" height=
+=3D"1" width=3D"1"></body>
+</html>
+--_----------=_MCPart_1515903642--

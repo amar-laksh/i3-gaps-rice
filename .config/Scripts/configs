@@ -1,0 +1,17 @@
+cfb	~/.config/Scripts/bashrc
+cfz	~/.zshrc
+cfv	~/.vimrc
+cfr	~/.config/ranger/rc.conf
+cfi	~/.config/i3/config
+cfq	~/.config/qutebrowser/keys.conf.base
+cfQ	~/.config/qutebrowser/qutebrowser.conf
+cfm	~/.config/mutt/muttrc
+cfM	~/.moc/keymap
+cff	~/.config/Scripts/folders
+cfc	~/.config/Scripts/configs
+cft	~/.config/termite/config
+cfT	~/.tmux.conf
+eb	~/Documents/LaTeX/uni.bib
+cfg	~/.config/mutt/gmail.conf
+cfC	~/.config/mutt/cock.conf
+cfa	~/.config/mutt/aliases

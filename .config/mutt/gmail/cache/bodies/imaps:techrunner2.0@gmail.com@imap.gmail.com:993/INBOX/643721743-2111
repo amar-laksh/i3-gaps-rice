@@ -1,0 +1,229 @@
+Delivered-To: techrunner2.0@gmail.com
+Received: by 10.55.23.100 with SMTP id i97csp307711qkh;
+        Wed, 19 Apr 2017 13:48:30 -0700 (PDT)
+X-Received: by 10.107.59.20 with SMTP id i20mr5190297ioa.75.1492634910055;
+        Wed, 19 Apr 2017 13:48:30 -0700 (PDT)
+Return-Path: <orders@dominos.com>
+Received: from VAHCXM04.dominos.com (vahcxm04.dominos.com. [205.218.20.104])
+        by mx.google.com with ESMTP id q63si16318337itq.20.2017.04.19.13.48.29
+        for <techrunner2.0@gmail.com>;
+        Wed, 19 Apr 2017 13:48:30 -0700 (PDT)
+Received-SPF: pass (google.com: domain of orders@dominos.com designates 205.218.20.104 as permitted sender) client-ip=205.218.20.104;
+Authentication-Results: mx.google.com;
+       dkim=pass (test mode) header.i=@dominos.com;
+       spf=pass (google.com: domain of orders@dominos.com designates 205.218.20.104 as permitted sender) smtp.mailfrom=orders@dominos.com;
+       dmarc=pass (p=NONE sp=NONE dis=NONE) header.from=dominos.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed;
+  s=s1024;d=dominos.com;
+  h=date:from:to:message-id:subject:mime-version:content-type;
+  bh=sM47zR3xumZk2KHMAa7MXCMUxKI=;
+  b=qNZ7E3/KtvlmvZey7hQZeSC5otBgkQCrzPjxUcW6ft7uEfkSIjkp1mw5obRDY4AAEHTrBSQ2
+    coiSmeK/qFcAhjk/k70UGuQSGMiU+D4rXsWI8WkocyVMRslYRIGo/IWGvRTUj27jCwKOnAAH
+    gvtaHXCDmqUMDN+FvsVaup6JcPc=
+DomainKey-Signature: a=rsa-sha1; q=dns; c=nofws;
+  s=s1024;d=dominos.com;
+  h=date:from:to:message-id:subject:mime-version:content-type;
+  b=nf/viZjCujVm4VZTjQW4buuyrkzG725Bm+dpb6hXAjo/GwQj1dXT1CLFWn980COSDz1ApF3s
+    Oo7b5sWSBcJEk0FAuSU7260gCLPV1t05+WueNQx4iqThKoWU84Nypc5TxXyYTKYfRq4YfJUS
+    VX842HTv6IkDRkjdmWyOo/qpMtg=
+Received: from vahcea1119-01.us.dominos.com ([10.2.86.47]) by VAHCXM04.dominos.com with Microsoft SMTPSVC(8.0.9200.16384);
+	 Wed, 19 Apr 2017 16:47:40 -0400
+Date: Wed, 19 Apr 2017 16:48:24 -0400 (EDT)
+From: orders@dominos.com
+To: techrunner2.0@gmail.com
+Message-ID: <941866477.8800231492634904536.JavaMail.DemonApp@vahcea1119-01.us.dominos.com>
+Subject: Your Domino's Order
+MIME-Version: 1.0
+Content-Type: text/html;charset=UTF-8
+Content-Transfer-Encoding: 7bit
+Return-Path: orders@dominos.com
+X-OriginalArrivalTime: 19 Apr 2017 20:47:40.0602 (UTC) FILETIME=[2FB319A0:01D2B94E]
+
+<html>
+<head>
+<title>"Domino's Pizza"</title>
+</head>
+
+<body bgcolor="#ffffff" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<center>
+  <table width="563" border="0" cellpadding="0" cellspacing="0">
+    <tbody>
+      <tr>
+        <td align="left"><table cellpadding="0" cellspacing="0" border="0" width="563">
+            <tbody>
+              <tr>
+                <td valign="top" align="right"><!-- Domino's Logo --><a href="https://www.dominos.com/en/?&utm_source=olocfrm&utm_medium=email&utm_content=EML-OLOCONFIRMATION&utm_campaign=OLOCONFIRMATION" style="text-decoration:none;"><img style="display: block;" src="http://cache.dominos.com/nolo/email-assets/en/000112/images/logo.png" width="92" height="90" alt="Domino's Pizza" border="0" /></a></td>
+                <td align="left">
+                <table cellpadding="0" cellspacing="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td valign="bottom"><table cellpadding="0" cellspacing="0" border="0">
+                        <table>
+                            <tbody>
+                              <tr>
+                                <td valign="bottom" align="left"><!-- Order --><a href="https://www.dominos.com/en/pages/order/?&utm_source=olocfrm&utm_medium=email&utm_content=EML-OLOCONFIRMATION&utm_campaign=OLOCONFIRMATION" style="text-decoration:none; font-family:'Arial Narrow', Arial, sans-serif; font-size:18px; font-weight:bold; text-transform:uppercase; color:#0064a1;">&nbsp;Order&nbsp;</a></td>
+                                <td valign="bottom" align="left"><!-- Menu --><a href="https://www.dominos.com/en/pages/order/menu.jsp?&utm_source=olocfrm&utm_medium=email&utm_content=EML-OLOCONFIRMATION&utm_campaign=OLOCONFIRMATION#/menu/category/all/" style="text-decoration:none; font-family:'Arial Narrow', Arial, sans-serif; font-size:18px; font-weight:bold; text-transform:uppercase; color:#0064a1;">&nbsp;Menu&nbsp;</a></td>
+                                <td valign="bottom" align="left"><!-- Coupons --><a href="https://www.dominos.com/en/pages/order/?redirect=coupons&utm_source=olocfrm&utm_medium=email&utm_content=EML-OLOCONFIRMATION&utm_campaign=OLOCONFIRMATION" style="text-decoration:none; font-family:'Arial Narrow', Arial, sans-serif; font-size:18px; font-weight:bold; text-transform:uppercase; color:#0064a1;">&nbsp;Coupons&nbsp;</a></td>
+                                <td valign="bottom" align="left"><!-- Locations --><a href="https://www.dominos.com/en/pages/order/?&utm_source=olocfrm&utm_medium=email&utm_content=EML-OLOCONFIRMATION&utm_campaign=OLOCONFIRMATION#/locations/all/" style="text-decoration:none; font-family:'Arial Narrow', Arial, sans-serif; font-size:18px; font-weight:bold; text-transform:uppercase; color:#0064a1;">&nbsp;Locations&nbsp;</a></td>
+                                <td valign="bottom" align="left"> </td>
+                              </tr>
+                              </tbody>
+                         </table>
+                  </table>
+                  </td>
+                      </tr>
+                      <tr>
+                        <td valign="top" align="left"><img style="display: block;" src="http://cache.dominos.com/nolo/email-assets/en/000102/images/x.gif" width="82" height="20" alt=""></td>
+                      </tr>
+                    </tbody>
+                  </table></td>
+              </tr>
+            </tbody>
+          </table></td>
+      </tr>
+     <tr>
+        <td align="left"><table cellpadding="0" cellspacing="0" width="563">
+            <tbody>
+              <tr>
+                <td valign="top"><img style="display: block; visibility:hidden;" src="images/email/spacer.gif" width="56" height="1" alt=""></td>
+                <td valign="top"><!-- Email Content --><img style="display: block;" src="http://cache.dominos.com/nolo/email-assets/en/000102/images/x.gif" width="494" height="15" alt="">
+                  <table cellpadding="0" cellspacing="0" border="0">
+                    <tbody>
+                      <tr>
+                        <td style="text-align: left;"><font face="Arial, Helvetica, sans-serif" size="2" color="#000000" style="font-size: 12px;">Thank you for placing your order at Dominos.com! If you have any questions about your order, please call the store directly at 254-939-2888. <br>
+                          <br>
+                          In case the store needs to reach you, we'll call the phone number below. If you do not answer we will be unable to deliver your order.
+                          </font></td>
+                      </tr>
+                      <tr>
+                        <td>
+                        <!-- Pizza Tracker Banner --><a href="https://www.dominos.com/en/pages/tracker?uph=7132774526&amp;uad=0&#43;DAVIDSON&#43;BUILDING&#43;101%7CBELTON%7CTX%7C76513&amp;utm_source=olocfrm&amp;utm_medium=email&amp;utm_content=EML-OLOCONFIRMATION&amp;utm_campaign=OLOCONFIRMATION"><img src="http://cache.dominos.com/nolo/email-assets/en/000112/images/confirmation/pizza_tracker.jpg" width="494" height="154" alt="Pizza Tracker | Click here to track the progress of your order in real time!" border="0" style="display: block;"></a>
+                         <table cellpadding="0" cellspacing="0" width="100%" style="border: 4px solid #0064a1;">
+                            <tbody>
+                              <tr>
+                                <td style="padding: 15px; text-align: left;"><!-- Order Information --><font face="Arial, Helvetica, sans-serif" style="line-height: 18px;"><font color="#0078ae" size="2" style="font-size: 16px;">Customer Information<br>
+                                  </font><font color="#000000" size="2" style="font-size: 12px;"><strong>Name on Order:</strong> Brandon  Behar<br>
+                                  <strong>Delivery Address:</strong> 0 DAVIDSON BUILDING 101, BELTON, TX 76513<br>                                  <strong>Callback Phone #:</strong> 713-277-4526<br>
+                                  <strong>Your Domino's Store (6808):</strong> 323 N Main St Belton TX  | 254-939-2888<br>
+                                  	<strong>Delivery Time:</strong> 
+                                  	Approximately 22-32 minutes
+                                  <br>
+                                  <br>
+                                  </font><font color="#0078ae" size="2" style="font-size: 16px;">Order Details <br>
+                                  </font><font color="#000000" size="2" style="font-size: 12px;"><strong>Order #:</strong> 563214 <br>
+                                  <strong>Date:</strong> 04/19/2017 3:48PM<br>
+                                  <br>
+                                  <strong>The following order is being delivered hot and fresh to your door:</strong><br>
+                                  </font><img src="http://cache.dominos.com/nolo/email-assets/en/000102/images/grey_divider.gif" width="425" height="9" alt="">
+                                  <table cellpadding="6" cellspacing="0" border="0" width="450">
+                                    <tbody>
+                                      <tr>
+                                      	<td width="10%"><font face="Arial, Helvetica, sans-serif" size="1" color="#000000" style="line-height: 18px; font-size: 11px;"><strong>Quantity</strong></font></td>
+                                        <td width="80%"><font face="Arial, Helvetica, sans-serif" size="1" color="#000000" style="line-height: 18px; font-size: 11px;"><strong>Description</strong></font></td>
+                                        <td width="10%"><font face="Arial, Helvetica, sans-serif" size="1" color="#000000" style="line-height: 18px; font-size: 11px;"><strong>Amount</strong></font></td>
+                                      </tr>
+                                                                            <tr>
+                                                                            	<td width="10%"><font face="Arial, Helvetica, sans-serif" size="1" color="#000000" style="line-height: 18px; font-size: 11px;"><strong>1</strong></font></td>
+                                                                              <td width="80%">
+                                                                                  <table cellpadding="0" cellspacing="0" style="width: 100%; font-family: Arial, Helvetica, sans-serif; font-size: 11px;">
+                                      		                                		<tr>
+                                      		                                			<td style="font-weight: bold; padding-right: 5px;">Small (10") Hand Tossed Pizza</td>
+                                      		                                		</tr>
+                                      		                                		<tr>
+                                      		                                			<td colspan="2" style="padding-top: 5px;">
+                                      				                                          <strong>Whole: </strong>Pepperoni, Ham, Alfredo Sauce, No Robust Inspired Tomato Sauce, Cheese
+                                      		                                			</td>
+                                      		                                		</tr>
+                                      		                                		<tr>
+                                      		                                			<td colspan="2" style="padding-top: 5px;">
+                                      		                                			</td>
+                                      		                                		</tr>			                                		
+                                      		                                	</table>
+                                                                              </td>
+                                                                              <td width="10%" align="right"><font face="Arial, Helvetica, sans-serif" size="1" color="#ed232c" style="font-size: 11px;"><strong>$7.09</strong></font></td>
+                                                                            </tr>
+                                    </tbody>
+                                  </table>
+                                  <img src="http://cache.dominos.com/nolo/email-assets/en/000102/images/grey_divider.gif" width="425" height="9" alt="" style="margin-bottom:8px;"><br>
+                                  <table width="450" cellpadding="2" cellspacing="0" border="0">
+                                    <font face="Arial, Helvetica, sans-serif" style="line-height: 18px;">
+                                    <tbody>
+                                      <tr>
+                                        <td width="60%"></td>
+                                        <td align="right" width="27%"><font size="2" style="font-size: 12px;" color="#000000"><strong>Food & Bev Total:</strong></font></td>
+                                        <td align="right"><font size="2" style="font-size: 12px;" color="#000000">$7.09</font></td>
+                                      </tr>
+                                      <tr>
+                                        <td></td>
+                                        <td align="right"><font size="2" style="font-size: 12px;" color="#000000"><strong>Tax: </strong></font></td>
+                                        <td align="right"><font size="2" style="font-size: 12px;" color="#000000">$0.81</font></td>
+                                      </tr>
+                                      <tr>
+                                        <td></td>
+                                        <td align="right"><font size="2" style="font-size: 12px;" color="#000000"><strong>Bottle Deposit: </strong></font></td>
+                                        <td align="right"><font size="2" style="font-size: 12px;" color="#000000">$0.00</font></td>
+                                      </tr>                                      
+                                      <tr>
+                                        <td></td>
+                                        <td align="right"><font size="2" style="font-size: 12px;" color="#000000"><strong>Delivery Charge: </strong></font></td>
+                                        <td align="right"><font size="2" style="font-size: 12px;" color="#000000">$2.75</font></td>
+                                      </tr>									  
+									  <tr>
+                                        <td></td>
+                                        <td colspan="2" align="right" style="padding-top: 12px;"><font size="3" color="#ed232c" style="font-size: 18px;"><strong>Total: $10.65</strong> </font></td>
+                                      </tr>
+                                      
+                                    </tbody>
+                                  </table>
+
+       
+                          
+                                  <font color="#0078ae" size="2" style="font-size: 16px;">Payment Details <br>
+                                                                    </font><font color="#000000" size="2" style="font-size: 16px;"><strong>Payment Method:</strong> Pay with Cash upon Delivery $10.65<br>
+                                  <font color="#000000" size="2" style="font-size: 16px;font-style: italic;"><strong>Any Delivery Charge is not a tip paid to your driver.</strong></font><br>                                  <font size="1" style="font-size: 11px;"><em>*Drivers carry less than $20 in change and checks are NOT accepted for online orders.</em> </font><br>
+                                  <br>
+                                  </font>
+                                   <table width="460" style="border-collapse: collapse;" border="0" cellpadding="0" cellspacing="0">
+		                           		<tr>
+		                          			<td><!-- Future Ordering --><a href="https://www.dominos.com/en/pages/order/?&utm_source=olocfrm&utm_medium=email&utm_content=EML-OLOCONFIRMATION&utm_campaign=OLOCONFIRMATION#/section/Food/category/AllEntrees/"><img src="http://cache.dominos.com/nolo/email-assets/en/000101/images/confirmation/future-order-small.jpg" width="219" height="166" alt="Future Ordering - Order tomorrow's pizza, today!" border="0"></a></td>		                        
+											<td><!-- Now Hiring Delivery Experts --><a href="https://jobs.dominos.com/dominos-careers/?Codes=Order"><img src="http://cache.dominos.com/nolo/email-assets/en/000117/images/confirmation/Order_Confirmation_Email_Tile-_219x166_GM.jpg" width="219" height="166" alt="Now Hiring Delivery Experts - Flexible Hours + Extra Cash" border="0"></a></td>
+		                          		</tr>    
+                                  </table>
+                                   <!-- end Order Information --></td>
+                              </tr>
+                            </tbody>
+                          </table></td>
+                      </tr>
+                    </tbody>
+                  </table>
+                  
+                  <!-- end Email Content --></td>
+                <td valign="top"><img style="display: block;" src="http://cache.dominos.com/nolo/email-assets/en/000102/images/x.gif" width="13" height="1" alt=""></td>
+              </tr>
+            </tbody>
+          </table></td>
+      </tr>
+      <tr>
+        <td><img src="http://cache.dominos.com/nolo/email-assets/en/000102/images/x.gif" width="1" height="15" alt=""></td>
+      </tr>
+       <tr>
+        <td align="left"><table width="563" cellpadding="0" cellspacing="0" border="0">
+            <!-- Footer -->
+            <tbody>
+              <tr>
+                <td width="55"><!-- Spacer --><img height="1" alt="" width="55" src="http://cache.dominos.com/nolo/email-assets/en/000102/images/x.gif"></td>
+                <td valign="top" align="left" width="60" border="0"><!-- Legal Name --><font style="font-size:8px;" text-decoration:none; font-family:'Arial Narrow', Arial, sans-serif;  font-weight:bold; color="#0064a1"><strong>LEGAL STUFF&nbsp;&#9654;</strong></font></td>
+                <td width="5"><img height="1" alt="" width="5" src="http://cache.dominos.com/nolo/email-assets/en/000102/images/x.gif"></td>
+                <td style="text-align: left" valign="top" align="left"><font style="font-size: 11px" face="arial,helvetica,sans-serif" color="#999999" size="1">Domino's Pizza LLC<br>
+                  <br>
+                  This message is systematically generated. Please do not attempt to reply or send e-mail to this account as it is not a managed e-mail account. For questions concerning your order please contact the store at which your order was placed. For all other inquiries please visit the Customer Service section on <a href="https://www.dominos.com/en/pages/content/customer-service/faq.jsp?&utm_source=olocfrm&utm_medium=email&utm_content=EML-OLOCONFIRMATION&utm_campaign=OLOCONFIRMATION" style="color:#006E9F">https://www.dominos.com/en/</a>.</font></td>
+                <td width="15"><!-- Spacer --><img height="1" alt="" width="15" src="http://cache.dominos.com/nolo/email-assets/en/000102/images/x.gif"></td>
+              </tr>
+            </tbody>
+          </table></td>
+      </tr>
+      </tbody>
+  </table>
+</center>
+</body>
+</html>

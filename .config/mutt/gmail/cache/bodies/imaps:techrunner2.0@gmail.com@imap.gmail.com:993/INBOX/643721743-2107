@@ -1,0 +1,857 @@
+Delivered-To: techrunner2.0@gmail.com
+Received: by 10.55.31.198 with SMTP id n67csp1721890qkh;
+        Tue, 18 Apr 2017 06:52:46 -0700 (PDT)
+X-Received: by 10.84.236.73 with SMTP id h9mr23138267pln.84.1492523566915;
+        Tue, 18 Apr 2017 06:52:46 -0700 (PDT)
+Return-Path: <MichaelatNylas-huhktkt1xwdjjkkk1d@cmail20.com>
+Received: from mx251.a.outbound.createsend.com (mx251.a.outbound.createsend.com. [203.55.21.251])
+        by mx.google.com with ESMTPS id g13si7539718plm.327.2017.04.18.06.52.46
+        for <techrunner2.0@gmail.com>
+        (version=TLS1_2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128/128);
+        Tue, 18 Apr 2017 06:52:46 -0700 (PDT)
+Received-SPF: pass (google.com: domain of michaelatnylas-huhktkt1xwdjjkkk1d@cmail20.com designates 203.55.21.251 as permitted sender) client-ip=203.55.21.251;
+Authentication-Results: mx.google.com;
+       dkim=pass header.i=@nylas.com;
+       dkim=pass header.i=@cmail2.com;
+       spf=pass (google.com: domain of michaelatnylas-huhktkt1xwdjjkkk1d@cmail20.com designates 203.55.21.251 as permitted sender) smtp.mailfrom=MichaelatNylas-huhktkt1xwdjjkkk1d@cmail20.com
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cm; d=nylas.com;
+ h=Subject:From:To:Reply-To:Date:MIME-Version:Content-Type:X-Feedback-ID:List-Unsubscribe:Message-ID; i=hello@nylas.com;
+ bh=lwJb9nIb026QIbUdOUylEypvcTE=;
+ b=krtDnuZKK1uXk3ewP4ghCZJjSDHCxn+FtWvawBASM8oqk1yBuOu3rFHrhvl7ruC1XLqjBsBvNHoN
+   wTtpVPltidOGYMTRcdnTDP9t4SVPZbiC+Z4i6MBOV5mU9IwtlG2RUi8ElX6H4BEXeiPsZhP/q/AF
+   7Khy4Vnmc4Nq25hxkPw=
+DKIM-Signature: v=1; a=rsa-sha1; c=relaxed/relaxed; s=cs2013; d=cmail2.com;
+ h=Subject:From:To:Reply-To:Date:MIME-Version:Content-Type:X-Feedback-ID:List-Unsubscribe:Message-ID;
+ bh=lwJb9nIb026QIbUdOUylEypvcTE=;
+ b=HL2qsiSnxK8gv6wofWZXDn66nmAYwvQXy7lOYO3X268RAdwWPUVCAq6BoNbR3XX4sduMTjLVdVjJ
+   g0U8xxVQtcbxAH8Grb+qQ4QFAlME+N9DidZJJSaUv5Va3vQnaqzzv5HKhaco2XALqnyhgyfleMQg
+   hgy0hHZul5suw2QQ8Fw=
+Subject: Announcing Nylas Mail 2.0
+From: "Michael at Nylas" <hello@nylas.com> 
+To: "Brandon Behar" <techrunner2.0@gmail.com>
+Reply-To: hello@nylas.com
+Date: Tue, 18 Apr 2017 23:30:17 +1000
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="_f424eac9-b333-48ee-afd0-d6d1181463e3_"; charset=utf-8
+X-Mailer: Create Send
+X-Complaints-To: abuse@cmail20.com
+X-Feedback-ID: CA1-d-huhktkt:LI1-d-dkjjdu:CL1-d-tuuul:createSEND
+List-Unsubscribe: <http://unsub.cmail20.com/t/d-u-huhktkt-xwdjjkkk/>,
+ <mailto:unsubscribe-huhktkt2xwdjjkkk2d-EFFCBBDB@cmail20.com?subject=Unsubscribe>
+Message-ID: <cm.2330175202098.huhktkt.xwdjjkkk.d@cmail20.com>
+
+--_f424eac9-b333-48ee-afd0-d6d1181463e3_
+Content-Type: text/plain;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hi =
+Brandon=
+=
+-- Michael here, CEO of Nylas.
+
+Because you previously signed-up for Nylas N1, I wanted to let you know t=
+hat Nylas Mail 2.0 was released today. It includes:
+
+Full support for Windows & Ubuntu LinuxFree SnoozingFree Send LaterFree R=
+emindersHuge performance, stability, and security improvements
+
+All Nylas N1 users with Pro subscriptions will automatically be upgraded =
+to Nylas Mail with the fully unlocked experience. It's the best app we've=
+ ever shipped.
+
+And just a reminder, Nylas Mail connects directly to your email provider =
+and syncs data locally.
+
+More details in our blog about this release:
+
+Check out the blog post [https://blog.nylas.com/announcing-nylas-mail-2-=
+0-de1ccb9dd4b3]
+
+Thanks again for your continued support. If you'd like to get involved in=
+ Nylas Mail, or have bug reports or feature suggestions, check out the pr=
+oject on GitHub:  [https://github.com/nylas/nylas-mail]
+
+Happy emailing!
+
+Michael ( @grinich [https://twitter.com/grinich])
+
+CEO @ Nylas
+
+Nylas, Inc.
+
+695 Minna Street
+
+San Francisco CA 94103   You're receiving this email because you expresse=
+d interest in Nylas!                Preferences http://nylas.updatemyprof=
+ile.com/d-huhktkt-EFFCBBDB-xwdjjkkk-i  |   Unsubscri=
+be http://nylas.cmail20.com/t/d-u-huhktkt-xwdjjkkk-d/
+
+--_f424eac9-b333-48ee-afd0-d6d1181463e3_
+Content-Type: text/html;
+	charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional //EN" "http://w=
+ww.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><!--[if IE]><html xmlns=
+=3D"http://www.w3.org/1999/xhtml" class=3D"ie"><![endif]--><!--[if !IE]=
+><!--><html style=3D"margin: 0;padding: 0;" xmlns=3D"http://www.w3.org/19=
+99/xhtml"><!--<![endif]--><head>
+    <meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dutf=
+-8">
+    <title></title>
+    <!--[if !mso]><!--><meta http-equiv=3D"X-UA-Compatible" content=3D"I=
+E=3Dedge"><!--<![endif]-->
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width"><style type=3D=
+"text/css">
+@media only screen and (min-width: 620px){.wrapper{min-width:600px !impor=
+tant}.wrapper h1{}.wrapper h1{font-size:26px !important;line-height:34px =
+!important}.wrapper h2{}.wrapper h2{font-size:20px !important;line-height=
+:28px !important}.wrapper h3{}.column{}.wrapper .size-8{font-size:8px !im=
+portant;line-height:14px !important}.wrapper .size-9{font-size:9px !impor=
+tant;line-height:16px !important}.wrapper .size-10{font-size:10px !import=
+ant;line-height:18px !important}.wrapper .size-11{font-size:11px !importa=
+nt;line-height:19px !important}.wrapper .size-12{font-size:12px !importan=
+t;line-height:19px !important}.wrapper .size-13{font-size:13px !important=
+;line-height:21px !important}.wrapper .size-14{font-size:14px !important;=
+line-height:21px !important}.wrapper .size-15{font-size:15px !important;l=
+ine-height:23px !important}.wrapper .size-16{font-size:16px !important;li=
+ne-height:24px=20
+!important}.wrapper .size-17{font-size:17px !important;line-height:26px !=
+important}.wrapper .size-18{font-size:18px !important;line-height:26px !i=
+mportant}.wrapper .size-20{font-size:20px !important;line-height:28px !im=
+portant}.wrapper .size-22{font-size:22px !important;line-height:31px !imp=
+ortant}.wrapper .size-24{font-size:24px !important;line-height:32px !impo=
+rtant}.wrapper .size-26{font-size:26px !important;line-height:34px !impor=
+tant}.wrapper .size-28{font-size:28px !important;line-height:36px !import=
+ant}.wrapper .size-30{font-size:30px !important;line-height:38px !importa=
+nt}.wrapper .size-32{font-size:32px !important;line-height:40px !importan=
+t}.wrapper .size-34{font-size:34px !important;line-height:43px !important=
+}.wrapper .size-36{font-size:36px !important;line-height:43px !important}=
+.wrapper .size-40{font-size:40px !important;line-height:47px !important}.=
+wrapper=20
+.size-44{font-size:44px !important;line-height:50px !important}.wrapper .=
+size-48{font-size:48px !important;line-height:54px !important}.wrapper .s=
+ize-56{font-size:56px !important;line-height:60px !important}.wrapper .si=
+ze-64{font-size:64px !important;line-height:63px !important}}
+</style>
+    <style type=3D"text/css">
+body {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+  table-layout: fixed;
+}
+* {
+  line-height: inherit;
+}
+[x-apple-data-detectors],
+[href^=3D"tel"],
+[href^=3D"sms"] {
+  color: inherit !important;
+  text-decoration: none !important;
+}
+.wrapper .footer__share-button a:hover,
+.wrapper .footer__share-button a:focus {
+  color: #ffffff !important;
+}
+.btn a:hover,
+.btn a:focus,
+.footer__share-button a:hover,
+.footer__share-button a:focus,
+.email-footer__links a:hover,
+.email-footer__links a:focus {
+  opacity: 0.8;
+}
+.preheader,
+.header,
+.layout,
+.column {
+  transition: width 0.25s ease-in-out, max-width 0.25s ease-in-out;
+}
+.layout,
+div.header {
+  max-width: 400px !important;
+  -fallback-width: 95% !important;
+  width: calc(100% - 20px) !important;
+}
+div.preheader {
+  max-width: 360px !important;
+  -fallback-width: 90% !important;
+  width: calc(100% - 60px) !important;
+}
+.snippet,
+.webversion {
+  Float: none !important;
+}
+.column {
+  max-width: 400px !important;
+  width: 100% !important;
+}
+.fixed-width.has-border {
+  max-width: 402px !important;
+}
+.fixed-width.has-border .layout__inner {
+  box-sizing: border-box;
+}
+.snippet,
+.webversion {
+  width: 50% !important;
+}
+.ie .btn {
+  width: 100%;
+}
+.ie .column,
+[owa] .column,
+.ie .gutter,
+[owa] .gutter {
+  display: table-cell;
+  float: none !important;
+  vertical-align: top;
+}
+.ie div.preheader,
+[owa] div.preheader,
+.ie .email-footer,
+[owa] .email-footer {
+  max-width: 560px !important;
+  width: 560px !important;
+}
+.ie .snippet,
+[owa] .snippet,
+.ie .webversion,
+[owa] .webversion {
+  width: 280px !important;
+}
+.ie div.header,
+[owa] div.header,
+.ie .layout,
+[owa] .layout,
+.ie .one-col .column,
+[owa] .one-col .column {
+  max-width: 600px !important;
+  width: 600px !important;
+}
+.ie .fixed-width.has-border,
+[owa] .fixed-width.has-border,
+.ie .has-gutter.has-border,
+[owa] .has-gutter.has-border {
+  max-width: 602px !important;
+  width: 602px !important;
+}
+.ie .two-col .column,
+[owa] .two-col .column {
+  max-width: 300px !important;
+  width: 300px !important;
+}
+.ie .three-col .column,
+[owa] .three-col .column,
+.ie .narrow,
+[owa] .narrow {
+  max-width: 200px !important;
+  width: 200px !important;
+}
+.ie .wide,
+[owa] .wide {
+  width: 400px !important;
+}
+.ie .two-col.has-gutter .column,
+[owa] .two-col.x_has-gutter .column {
+  max-width: 290px !important;
+  width: 290px !important;
+}
+.ie .three-col.has-gutter .column,
+[owa] .three-col.x_has-gutter .column,
+.ie .has-gutter .narrow,
+[owa] .has-gutter .narrow {
+  max-width: 188px !important;
+  width: 188px !important;
+}
+.ie .has-gutter .wide,
+[owa] .has-gutter .wide {
+  max-width: 394px !important;
+  width: 394px !important;
+}
+.ie .two-col.has-gutter.has-border .column,
+[owa] .two-col.x_has-gutter.x_has-border .column {
+  max-width: 292px !important;
+  width: 292px !important;
+}
+.ie .three-col.has-gutter.has-border .column,
+[owa] .three-col.x_has-gutter.x_has-border .column,
+.ie .has-gutter.has-border .narrow,
+[owa] .has-gutter.x_has-border .narrow {
+  max-width: 190px !important;
+  width: 190px !important;
+}
+.ie .has-gutter.has-border .wide,
+[owa] .has-gutter.x_has-border .wide {
+  max-width: 396px !important;
+  width: 396px !important;
+}
+.ie .fixed-width .layout__inner {
+  border-left: 0 none white !important;
+  border-right: 0 none white !important;
+}
+.ie .layout__edges {
+  display: none;
+}
+.mso .layout__edges {
+  font-size: 0;
+}
+.layout-fixed-width,
+.mso .layout-full-width {
+  background-color: #ffffff;
+}
+@media only screen and (min-width: 620px) {
+  .column,
+  .gutter {
+    display: table-cell;
+    Float: none !important;
+    vertical-align: top;
+  }
+  div.preheader,
+  .email-footer {
+    max-width: 560px !important;
+    width: 560px !important;
+  }
+  .snippet,
+  .webversion {
+    width: 280px !important;
+  }
+  div.header,
+  .layout,
+  .one-col .column {
+    max-width: 600px !important;
+    width: 600px !important;
+  }
+  .fixed-width.has-border,
+  .fixed-width.ecxhas-border,
+  .has-gutter.has-border,
+  .has-gutter.ecxhas-border {
+    max-width: 602px !important;
+    width: 602px !important;
+  }
+  .two-col .column {
+    max-width: 300px !important;
+    width: 300px !important;
+  }
+  .three-col .column,
+  .column.narrow {
+    max-width: 200px !important;
+    width: 200px !important;
+  }
+  .column.wide {
+    width: 400px !important;
+  }
+  .two-col.has-gutter .column,
+  .two-col.ecxhas-gutter .column {
+    max-width: 290px !important;
+    width: 290px !important;
+  }
+  .three-col.has-gutter .column,
+  .three-col.ecxhas-gutter .column,
+  .has-gutter .narrow {
+    max-width: 188px !important;
+    width: 188px !important;
+  }
+  .has-gutter .wide {
+    max-width: 394px !important;
+    width: 394px !important;
+  }
+  .two-col.has-gutter.has-border .column,
+  .two-col.ecxhas-gutter.ecxhas-border .column {
+    max-width: 292px !important;
+    width: 292px !important;
+  }
+  .three-col.has-gutter.has-border .column,
+  .three-col.ecxhas-gutter.ecxhas-border .column,
+  .has-gutter.has-border .narrow,
+  .has-gutter.ecxhas-border .narrow {
+    max-width: 190px !important;
+    width: 190px !important;
+  }
+  .has-gutter.has-border .wide,
+  .has-gutter.ecxhas-border .wide {
+    max-width: 396px !important;
+    width: 396px !important;
+  }
+}
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen a=
+nd (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel=
+-ratio: 2/1), only screen and (min-device-pixel-ratio: 2), only screen an=
+d (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+  .fblike {
+    background-image: url(http://i3.cmail20.com/static/eb/master/13-the-b=
+lueprint-3/images/fblike@2x.png) !important;
+  }
+  .tweet {
+    background-image: url(http://i5.cmail20.com/static/eb/master/13-the-b=
+lueprint-3/images/tweet@2x.png) !important;
+  }
+  .linkedinshare {
+    background-image: url(http://i4.cmail20.com/static/eb/master/13-the-b=
+lueprint-3/images/lishare@2x.png) !important;
+  }
+  .forwardtoafriend {
+    background-image: url(http://i10.cmail20.com/static/eb/master/13-the-=
+blueprint-3/images/forward@2x.png) !important;
+  }
+}
+@media (max-width: 321px) {
+  .fixed-width.has-border .layout__inner {
+    border-width: 1px 0 !important;
+  }
+  .layout,
+  .column {
+    min-width: 320px !important;
+    width: 320px !important;
+  }
+  .border {
+    display: none;
+  }
+}
+.mso div {
+  border: 0 none white !important;
+}
+.mso .w560 .divider {
+  Margin-left: 260px !important;
+  Margin-right: 260px !important;
+}
+.mso .w360 .divider {
+  Margin-left: 160px !important;
+  Margin-right: 160px !important;
+}
+.mso .w260 .divider {
+  Margin-left: 110px !important;
+  Margin-right: 110px !important;
+}
+.mso .w160 .divider {
+  Margin-left: 60px !important;
+  Margin-right: 60px !important;
+}
+.mso .w354 .divider {
+  Margin-left: 157px !important;
+  Margin-right: 157px !important;
+}
+.mso .w250 .divider {
+  Margin-left: 105px !important;
+  Margin-right: 105px !important;
+}
+.mso .w148 .divider {
+  Margin-left: 54px !important;
+  Margin-right: 54px !important;
+}
+.mso .footer__share-button p {
+  margin: 0;
+}
+.mso .size-8,
+.ie .size-8 {
+  font-size: 8px !important;
+  line-height: 14px !important;
+}
+.mso .size-9,
+.ie .size-9 {
+  font-size: 9px !important;
+  line-height: 16px !important;
+}
+.mso .size-10,
+.ie .size-10 {
+  font-size: 10px !important;
+  line-height: 18px !important;
+}
+.mso .size-11,
+.ie .size-11 {
+  font-size: 11px !important;
+  line-height: 19px !important;
+}
+.mso .size-12,
+.ie .size-12 {
+  font-size: 12px !important;
+  line-height: 19px !important;
+}
+.mso .size-13,
+.ie .size-13 {
+  font-size: 13px !important;
+  line-height: 21px !important;
+}
+.mso .size-14,
+.ie .size-14 {
+  font-size: 14px !important;
+  line-height: 21px !important;
+}
+.mso .size-15,
+.ie .size-15 {
+  font-size: 15px !important;
+  line-height: 23px !important;
+}
+.mso .size-16,
+.ie .size-16 {
+  font-size: 16px !important;
+  line-height: 24px !important;
+}
+.mso .size-17,
+.ie .size-17 {
+  font-size: 17px !important;
+  line-height: 26px !important;
+}
+.mso .size-18,
+.ie .size-18 {
+  font-size: 18px !important;
+  line-height: 26px !important;
+}
+.mso .size-20,
+.ie .size-20 {
+  font-size: 20px !important;
+  line-height: 28px !important;
+}
+.mso .size-22,
+.ie .size-22 {
+  font-size: 22px !important;
+  line-height: 31px !important;
+}
+.mso .size-24,
+.ie .size-24 {
+  font-size: 24px !important;
+  line-height: 32px !important;
+}
+.mso .size-26,
+.ie .size-26 {
+  font-size: 26px !important;
+  line-height: 34px !important;
+}
+.mso .size-28,
+.ie .size-28 {
+  font-size: 28px !important;
+  line-height: 36px !important;
+}
+.mso .size-30,
+.ie .size-30 {
+  font-size: 30px !important;
+  line-height: 38px !important;
+}
+.mso .size-32,
+.ie .size-32 {
+  font-size: 32px !important;
+  line-height: 40px !important;
+}
+.mso .size-34,
+.ie .size-34 {
+  font-size: 34px !important;
+  line-height: 43px !important;
+}
+.mso .size-36,
+.ie .size-36 {
+  font-size: 36px !important;
+  line-height: 43px !important;
+}
+.mso .size-40,
+.ie .size-40 {
+  font-size: 40px !important;
+  line-height: 47px !important;
+}
+.mso .size-44,
+.ie .size-44 {
+  font-size: 44px !important;
+  line-height: 50px !important;
+}
+.mso .size-48,
+.ie .size-48 {
+  font-size: 48px !important;
+  line-height: 54px !important;
+}
+.mso .size-56,
+.ie .size-56 {
+  font-size: 56px !important;
+  line-height: 60px !important;
+}
+.mso .size-64,
+.ie .size-64 {
+  font-size: 64px !important;
+  line-height: 63px !important;
+}
+.footer__share-button p {
+  margin: 0;
+}
+</style>
+   =20
+  <style type=3D"text/css">
+body{background-color:#fff}.logo a:hover,.logo a:focus{color:#859bb1 !imp=
+ortant}.mso .layout-has-border{border-top:1px solid #ccc;border-bottom:1p=
+x solid #ccc}.mso .layout-has-bottom-border{border-bottom:1px solid #ccc}=
+.mso .border,.ie .border{background-color:#ccc}.mso h1,.ie h1{}.mso h1,.i=
+e h1{font-size:26px !important;line-height:34px !important}.mso h2,.ie h2=
+{}.mso h2,.ie h2{font-size:20px !important;line-height:28px !important}.m=
+so h3,.ie h3{}.mso .layout__inner,.ie .layout__inner{}
+</style></head>
+<!--[if mso]>
+  <body class=3D"mso">
+<![endif]-->
+<!--[if !mso]><!-->
+  <body class=3D"full-padding" style=3D"margin: 0;padding: 0;-webkit-text=
+-size-adjust: 100%;">
+<!--<![endif]-->
+    <table class=3D"wrapper" style=3D"border-collapse: collapse;table-lay=
+out: fixed;min-width: 320px;width: 100%;background-color: #fff;" cellpadd=
+ing=3D"0" cellspacing=3D"0" role=3D"presentation"><tbody><tr><td>
+      <div role=3D"banner">
+        <div class=3D"preheader" style=3D"Margin: 0 auto;max-width: 560px=
+;min-width: 280px; width: 280px;width: calc(28000% - 167440px);">
+          <div style=3D"border-collapse: collapse;display: table;width: 1=
+00%;">
+          <!--[if (mso)|(IE)]><table align=3D"center" class=3D"preheader=
+" cellpadding=3D"0" cellspacing=3D"0" role=3D"presentation"><tr><td style=
+=3D"width: 280px" valign=3D"top"><![endif]-->
+            <div class=3D"snippet" style=3D"display: table-cell;Float: le=
+ft;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 140px; w=
+idth: 140px;width: calc(14000% - 78120px);padding: 10px 0 5px 0;color: #b=
+db9bd;font-family: Avenir,sans-serif;">
+             =20
+            </div>
+          <!--[if (mso)|(IE)]></td><td style=3D"width: 280px" valign=3D"=
+top"><![endif]-->
+            <div class=3D"webversion" style=3D"display: table-cell;Float:=
+ left;font-size: 12px;line-height: 19px;max-width: 280px;min-width: 139px=
+; width: 139px;width: calc(14100% - 78680px);padding: 10px 0 5px 0;text-a=
+lign: right;color: #bdb9bd;font-family: Avenir,sans-serif;">
+             =20
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+          </div>
+        </div>
+        <div class=3D"header" style=3D"Margin: 0 auto;max-width: 600px;mi=
+n-width: 320px; width: 320px;width: calc(28000% - 167400px);" id=3D"emb-e=
+mail-header-container">
+        <!--[if (mso)|(IE)]><table align=3D"center" class=3D"header" cel=
+lpadding=3D"0" cellspacing=3D"0" role=3D"presentation"><tr><td style=3D"w=
+idth: 600px"><![endif]-->
+          <div class=3D"logo emb-logo-margin-box" style=3D"font-size: 26p=
+x;line-height: 32px;Margin-top: 6px;Margin-bottom: 20px;color: #c3ced9;fo=
+nt-family: Roboto,sans-serif;Margin-left: 20px;Margin-right: 20px;" align=
+=3D"center">
+            <div class=3D"logo-center" align=3D"center" id=3D"emb-email-h=
+eader"><a style=3D"text-decoration: none;transition: opacity 0.1s ease-in=
+;color: #c3ced9;" href=3D"http://nylas.cmail20.com/t/d-l-huhktkt-=
+xwdjjkkk-r/"><img style=3D"display: block;height: auto;width: 100%;bord=
+er: 0;max-width: 560px;" src=3D"http://i1.cmail20.com/ei/d/10/A81/1F3/033=
+130/csfinal/NylasMailhero.png" alt=3D"Nylas Mail - The best free email ap=
+p you'll ever use" width=3D"560"></a></div>
+          </div>
+        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </div>
+      </div>
+      <div role=3D"section">
+      <div class=3D"layout one-col fixed-width" style=3D"Margin: 0 auto;m=
+ax-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 16740=
+0px);overflow-wrap: break-word;word-wrap: break-word;word-break: break-wo=
+rd;">
+        <div class=3D"layout__inner" style=3D"border-collapse: collapse;d=
+isplay: table;width: 100%;background-color: #ffffff;" emb-background-styl=
+e>
+        <!--[if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" ce=
+llspacing=3D"0" role=3D"presentation"><tr class=3D"layout-fixed-width" em=
+b-background-style><td style=3D"width: 600px" class=3D"w560"><![endif]--=
+>
+          <div class=3D"column" style=3D"text-align: left;color: #8f8f8f;=
+font-size: 14px;line-height: 21px;font-family: Avenir,sans-serif;max-widt=
+h: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);">=
+
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-top=
+: 24px;">
+      <p class=3D"size-18" style=3D"Margin-top: 0;Margin-bottom: 0;font-f=
+amily: avenir,sans-serif;font-size: 17px;line-height: 26px;text-align: le=
+ft;" lang=3D"x-size-18"><span class=3D"font-avenir"><span style=3D"color:=
+#000000">Hi =
+Brandon=
+=
+-- Michael here, CEO of Nylas.</span></span></p><p class=3D"size-18" styl=
+e=3D"Margin-top: 20px;Margin-bottom: 0;font-family: avenir,sans-serif;fon=
+t-size: 17px;line-height: 26px;text-align: left;" lang=3D"x-size-18"><spa=
+n class=3D"font-avenir"><span style=3D"color:#000000">Because you previou=
+sly signed-up for&nbsp;Nylas N1,&nbsp;I wanted to let you know that=20
+<strong>Nylas Mail 2.0 was released today</strong>. It includes:</span></=
+span></p><ul style=3D"Margin-top: 20px;Margin-bottom: 0;Margin-left: 24px=
+;padding: 0;list-style-type: disc;"><li class=3D"size-18" style=3D"Margin=
+-top: 20px;Margin-bottom: 0;Margin-left: 0;font-family: avenir,sans-serif=
+;font-size: 17px;line-height: 26px;text-align: left;" lang=3D"x-size-18">=
+<span class=3D"font-avenir"><span style=3D"color:#000000">Full support fo=
+r Windows &amp; Ubuntu Linux</span></span></li><li class=3D"size-18" styl=
+e=3D"Margin-top: 0;Margin-bottom: 0;Margin-left: 0;font-family: avenir,sa=
+ns-serif;font-size: 17px;line-height: 26px;text-align: left;" lang=3D"x-s=
+ize-18"><span class=3D"font-avenir"><span style=3D"color:#000000">Free Sn=
+oozing</span></span></li><li class=3D"size-18" style=3D"Margin-top: 0;Mar=
+gin-bottom: 0;Margin-left: 0;font-family: avenir,sans-serif;font-size: 17=
+px;line-height: 26px;text-align: left;"=20
+lang=3D"x-size-18"><span class=3D"font-avenir"><span style=3D"color:#0000=
+00">Free Send Later</span></span></li><li class=3D"size-18" style=3D"Marg=
+in-top: 0;Margin-bottom: 0;Margin-left: 0;font-family: avenir,sans-serif;=
+font-size: 17px;line-height: 26px;text-align: left;" lang=3D"x-size-18"><=
+span class=3D"font-avenir"><span style=3D"color:#000000">Free Reminders</=
+span></span></li><li class=3D"size-18" style=3D"Margin-top: 0;Margin-bott=
+om: 0;Margin-left: 0;font-family: avenir,sans-serif;font-size: 17px;line-=
+height: 26px;text-align: left;" lang=3D"x-size-18"><span class=3D"font-av=
+enir"><span style=3D"color:#000000">Huge performance, stability, and secu=
+rity improvements</span></span></li></ul><p class=3D"size-18" style=3D"Ma=
+rgin-top: 20px;Margin-bottom: 0;font-family: avenir,sans-serif;font-size:=
+ 17px;line-height: 26px;text-align: left;" lang=3D"x-size-18"><span class=
+=3D"font-avenir"><span style=3D"color:#000000">All Nylas N1=20
+users with Pro subscriptions will automatically be upgraded to Nylas Mail=
+ with the fully unlocked experience. It's the best app we've ever shipped=
+.</span></span></p><p class=3D"size-18" style=3D"Margin-top: 20px;Margin-=
+bottom: 0;font-family: avenir,sans-serif;font-size: 17px;line-height: 26p=
+x;text-align: left;" lang=3D"x-size-18"><span class=3D"font-avenir"><stro=
+ng><span style=3D"color:#000000">And just a reminder, Nylas Mail connects=
+ directly to your email provider and syncs data locally.</span></strong><=
+/span></p><p class=3D"size-18" style=3D"Margin-top: 20px;Margin-bottom: 0=
+;font-family: avenir,sans-serif;font-size: 17px;line-height: 26px;text-al=
+ign: left;" lang=3D"x-size-18"><span class=3D"font-avenir"><span style=3D=
+"color:#000000">More details in our&nbsp;blog about this release:</span><=
+/span></p><ul style=3D"Margin-top: 20px;Margin-bottom: 20px;Margin-left: =
+24px;padding: 0;list-style-type: disc;"></ul>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div class=3D"btn btn--shadow btn--large" style=3D"Margin-bottom: 2=
+0px;text-align: center;">
+        <![if !mso]><a style=3D"border-radius: 4px;display: inline-block=
+;font-size: 14px;font-weight: bold;line-height: 24px;padding: 12px 24px 1=
+3px 24px;text-align: center;text-decoration: none !important;transition: =
+opacity 0.1s ease-in;color: #ffffff !important;box-shadow: inset 0 -2px 0=
+ 0 rgba(0, 0, 0, 0.2);background-color: #2591de;font-family: Avenir, sans=
+-serif;" href=3D"http://nylas.cmail20.com/t/d-l-huhktkt-=
+xwdjjkkk-y/">Check out the blog post</a><![endif]>
+      <!--[if mso]><p style=3D"line-height:0;margin:0;">&nbsp;</p><v:rou=
+ndrect xmlns:v=3D"urn:schemas-microsoft-com:vml" href=3D"http://nylas.cma=
+il20.com/t/d-l-huhktkt-xwdjjkkk-y/" style=3D"width:206px" arcsi=
+ze=3D"9%" fillcolor=3D"#2591DE" stroke=3D"f"><v:shadow on=3D"t" color=3D"=
+#1E74B2" offset=3D"0,2px"></v:shadow><v:textbox style=3D"mso-fit-shape-to=
+-text:t" inset=3D"0px,11px,0px,10px"><center style=3D"font-size:14px;line=
+-height:24px;color:#FFFFFF;font-family:Avenir,sans-serif;font-weight:bold=
+;mso-line-height-rule:exactly;mso-text-raise:4px">Check out the blog<br>
+post</center></v:textbox></v:roundrect><![endif]--></div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;">
+      <div style=3D"line-height:16px;font-size:1px">&nbsp;</div>
+    </div>
+       =20
+            <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-bot=
+tom: 24px;">
+      <p class=3D"size-18" style=3D"Margin-top: 0;Margin-bottom: 0;font-s=
+ize: 17px;line-height: 26px;text-align: left;" lang=3D"x-size-18"><span s=
+tyle=3D"color:#000000">Thanks again for your continued support. If you'd =
+like to get involved in Nylas Mail, or have bug reports or feature sugges=
+tions, check out the project on GitHub:</span><span style=3D"color:#00000=
+0">&nbsp;</span><a style=3D"text-decoration: underline;transition: opacit=
+y 0.1s ease-in;color: #0062ff;" href=3D"http://nylas.cmail20.com/t/d-l-hu=
+hktkt-xwdjjkkk-j/"><span style=3D"color:#000000">https://github=
+.com/nylas/nylas-mail</span></a></p><p class=3D"size-18" style=3D"Margin-=
+top: 20px;Margin-bottom: 0;font-size: 17px;line-height: 26px;text-align: =
+left;" lang=3D"x-size-18"><br>
+<font color=3D"#000000">Happy emailing!&nbsp;</font></p><p class=3D"size-=
+18" style=3D"Margin-top: 20px;Margin-bottom: 0;font-size: 17px;line-heigh=
+t: 26px;text-align: left;" lang=3D"x-size-18"><font color=3D"#000000">Mic=
+hael (<a style=3D"text-decoration: underline;transition: opacity 0.1s eas=
+e-in;color: #0062ff;" href=3D"http://nylas.cmail20.com/t/d-l-huhktkt-=
+xwdjjkkk-t/"><span style=3D"color:#000000">@grinich</span></a>)</fo=
+nt><br>
+CEO @ Nylas</p>
+    </div>
+       =20
+          </div>
+        <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+        </div>
+      </div>
+ =20
+      <div style=3D"line-height:80px;font-size:80px;">&nbsp;</div>
+ =20
+     =20
+      <div role=3D"contentinfo">
+        <div class=3D"layout email-footer" style=3D"Margin: 0 auto;max-wi=
+dth: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);=
+overflow-wrap: break-word;word-wrap: break-word;word-break: break-word;">=
+
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse=
+;display: table;width: 100%;">
+          <!--[if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation"><tr class=3D"layout-email-footer"=
+><td style=3D"width: 400px;" valign=3D"top" class=3D"w360"><![endif]-->
+            <div class=3D"column wide" style=3D"text-align: left;font-siz=
+e: 12px;line-height: 19px;color: #bdb9bd;font-family: Avenir,sans-serif;F=
+loat: left;max-width: 400px;min-width: 320px; width: 320px;width: calc(80=
+00% - 47600px);">
+              <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-t=
+op: 10px;Margin-bottom: 10px;">
+               =20
+                <div style=3D"font-size: 12px;line-height: 19px;">
+                  <div>Nylas, Inc.<br>
+695 Minna Street<br>
+San Francisco CA 94103</div>
+                </div>
+                <div style=3D"font-size: 12px;line-height: 19px;Margin-to=
+p: 18px;">
+                  <div>You're receiving this email because you expressed =
+interest in Nylas!</div>
+                </div>
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td><td style=3D"width: 200px;" valign=3D=
+"top" class=3D"w160"><![endif]-->
+            <div class=3D"column narrow" style=3D"text-align: left;font-s=
+ize: 12px;line-height: 19px;color: #bdb9bd;font-family: Avenir,sans-serif=
+;Float: left;max-width: 320px;min-width: 200px; width: 320px;width: calc(=
+72200px - 12000%);">
+              <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-t=
+op: 10px;Margin-bottom: 10px;">
+               =20
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+          </div>
+        </div>
+        <div class=3D"layout one-col email-footer" style=3D"Margin: 0 aut=
+o;max-width: 600px;min-width: 320px; width: 320px;width: calc(28000% - 16=
+7400px);overflow-wrap: break-word;word-wrap: break-word;word-break: break=
+-word;">
+          <div class=3D"layout__inner" style=3D"border-collapse: collapse=
+;display: table;width: 100%;">
+          <!--[if (mso)|(IE)]><table align=3D"center" cellpadding=3D"0" =
+cellspacing=3D"0" role=3D"presentation"><tr class=3D"layout-email-footer"=
+><td style=3D"width: 600px;" class=3D"w560"><![endif]-->
+            <div class=3D"column" style=3D"text-align: left;font-size: 12=
+px;line-height: 19px;color: #bdb9bd;font-family: Avenir,sans-serif;max-wi=
+dth: 600px;min-width: 320px; width: 320px;width: calc(28000% - 167400px);=
+">
+              <div style=3D"Margin-left: 20px;Margin-right: 20px;Margin-t=
+op: 10px;Margin-bottom: 10px;">
+                <div style=3D"font-size: 12px;line-height: 19px;">
+                  <span><a style=3D"text-decoration: underline;transition=
+: opacity 0.1s ease-in;color: #bdb9bd;" href=3D"http://nylas.updatemyprof=
+ile.com/d-huhktkt-EFFCBBDB-xwdjjkkk-h" lang=3D"en">P=
+references</a>&nbsp;&nbsp;|&nbsp;&nbsp;</span><a style=3D"text-decoration=
+: underline;transition: opacity 0.1s ease-in;color: #bdb9bd;" href=3D"htt=
+p://nylas.cmail20.com/t/d-u-huhktkt-xwdjjkkk-k/">Unsubscribe</a=
+>
+                </div>
+              </div>
+            </div>
+          <!--[if (mso)|(IE)]></td></tr></table><![endif]-->
+          </div>
+        </div>
+      </div>
+      <div style=3D"line-height:40px;font-size:40px;">&nbsp;</div>
+    </div></td></tr></tbody></table>
+  <img style=3D"overflow: hidden;position: fixed;visibility: hidden !impo=
+rtant;display: block !important;height: 1px !important;width: 1px !import=
+ant;border: 0 !important;margin: 0 !important;padding: 0 !important;" src=
+=3D"https://nylas.cmail20.com/t/d-o-huhktkt-xwdjjkkk/o.gif" wid=
+th=3D"1" height=3D"1" border=3D"0" alt=3D"">
+</body></html>=
+
+
+
+
+--_f424eac9-b333-48ee-afd0-d6d1181463e3_--
