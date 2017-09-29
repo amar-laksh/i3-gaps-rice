@@ -13,8 +13,8 @@ export EDITOR="nvim"
 # You may need to manually set your language environment
 export LANG=en_US.UTF-8
 
-alias v="vim"
-alias sv="sudo vim"
+alias v="$EDITOR"
+alias sv="sudo $EDITOR"
 alias ls='ls --color=auto --group-directories-first'
 alias lsa='ls -A'
 alias b="cd .. && ls -a"
