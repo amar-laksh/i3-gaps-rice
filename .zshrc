@@ -70,11 +70,17 @@ alias b="cd .. && ls -a"
 alias q="exit"
 alias e="exit"
 
+#Arch Pacman
 alias PS="sudo pacman -S"
 alias PRns="sudo pacman -Rns"
 alias PSyu="sudo pacman -Syu"
 alias PSyyu="sudo pacman -Syyu"
 alias PQn="sudo pacman -Qn"
+
+#Ubuntu apt
+#alias ai="sudo apt install"
+#alias auu="sudo apt upgrade; sudo apt upgrade -y"
+#alias aar="sudo apt-get autoremove -y"
 
 #Term only
 alias mute="pamixer -m"
@@ -98,8 +104,6 @@ alias Txa="cp ~/Documents/LaTeX/article.tex"
 alias Txs="cp ~/Documents/LaTeX/beamer.tex"
 alias Txh="cp ~/Documents/LaTeX/handout.tex"
 
-givegit() { git clone http://github.com/$1.git ;}
-weath() { curl wttr.in/$1 ;}
 alias h="cd ~ && ls -a"
 alias cf="cd ~/.config && ls -a"
 alias d="cd ~/Documents && ls -a"
@@ -127,7 +131,7 @@ alias cfC="$EDITOR ~/.config/mutt/cock.conf"
 alias cfa="$EDITOR ~/.config/mutt/aliases"
 
 
-alias wall='wal -c -t -i "/home/techrunner/.config/wall.png" && feh --bg-scale ~/.config/wall.png'
+alias wall='wal -c -t -i "~/.config/wall.png"'
 alias cfz="$EDITOR ~/.zshrc"
 alias cfi="$EDITOR ~/.config/i3/config"
 alias cfb="$EDITOR ~/.bashrc"
