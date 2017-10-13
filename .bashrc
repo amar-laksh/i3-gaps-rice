@@ -99,3 +99,4 @@ alias cef="sudo umount /mnt/flash; sudo cryptsetup luksClose flash"
 
 #Open Web Browser
 alias web="$BROWSER"
+alias ldm="sudo systemctl start lightdm"
