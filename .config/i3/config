@@ -51,7 +51,7 @@ exec touchegg
 
 ###---Audio and Music Definitions---###
 ##For mpc:
-set $music $term -e ncmpcpp
+set $music ncmpcpp
 set $pause --no-startup-id mpc toggle
 set $next --no-startup-id mpc next
 set $prev --no-startup-id mpc prev
@@ -62,7 +62,7 @@ set $bigbak --no-startup-id mpc seek -120
 set $beg --no-startup-id mpc seek 0%
 
 ##For moc:
-#set $music $term -e mocp
+#set $music mocp
 #set $pause --no-startup-id mocp -G
 #set $next --no-startup-id mocp -f
 #set $prev --no-startup-id mocp -r
@@ -73,7 +73,7 @@ set $beg --no-startup-id mpc seek 0%
 #set $beg --no-startup-id mocp -j 0%
 
 ##For cmus:
-#set $music $term -e cmus
+#set $music cmus
 #set $pause --no-startup-id cmus-remote -u
 #set $next --no-startup-id cmus-remote -n
 #set $prev --no-startup-id cmus-remote -r
@@ -213,7 +213,7 @@ bindsym $mod+Shift+b		exec --no-startup-id blender; workspace $ws6
 bindsym $mod+n			exec $next
 bindsym $mod+Shift+n		exec $term -e newsbeuter
 
-bindsym $mod+m 			exec $music
+bindsym $mod+m 			exec $term -e $music
 bindsym $mod+Shift+m		exec $mute
 
 
