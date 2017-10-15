@@ -41,7 +41,7 @@ exec --no-startup-id unclutter
 #Bluetooth Applet:
 exec --no-startup-id exec blueman-applet
 #Battery Indicator
-#exec --no-startup-id exec cbatticon
+exec --no-startup-id exec cbatticon
 #execute wall command at start
 exec --no-startup-id exec wal -i "~/.config/wall.png"
 #disables disable w/ typing
