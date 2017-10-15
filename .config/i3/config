@@ -7,7 +7,8 @@ for_window [class="^.*"] border pixel 0
 gaps inner 15
 gaps outer 15
 font pango:hack 9
-set $mod Mod4 #Mod4 = mac, Mod1 = other
+#Mod4 = mac, Mod1 = other
+set $mod Mod4 
 set $term urxvt
 set $stoprec --no-startup-id killall ffmpeg
 set $flash --no-startup-id bash ~/.config/Scripts/flash_win.sh
